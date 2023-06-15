@@ -3,7 +3,7 @@
 - 😄 Ele/dele
 - 👨🏼‍🎓 Graduado em administração | Pós graduando em Full Stack & Projetos de Cloud Computing
 - ❤️ Apaixonado por tecnologia e pessoas
-- 🌱 Em migração de carreira
+- 🌱 Em transição de carreira
 
 <br>
 <div padding="5px">
