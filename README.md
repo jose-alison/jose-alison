@@ -19,7 +19,7 @@
 
 # 📊 Github Stats
 <div>
-  <img height="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=jose-alison&bg_color=0d1117&color=589edd&line=f5c402&point=f5c402&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)"/>
+  <img height="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=jose-alison&bg_color=030314&color=589edd&line=f5c402&point=f5c402&area=true&hide_border=true)]"/>
   <a href="https://github.com/jose-alison/">   
   <img height="196em" src="https://github-readme-stats.vercel.app/api?username=jose-alison&show_icons=true&theme=holi"/>  
   <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-alison&theme=holi&langs_count=8"/>
