@@ -1,9 +1,13 @@
 # Hi! 🖖
 - 🙎🏽‍♂️ Olá, eu sou Alison!
-- 😄 Ele/dele
-- 👨🏼‍🎓 Graduado em administração | Pós graduando em Full Stack & Projetos de Cloud Computing
 - ❤️ Apaixonado por tecnologia e pessoas
+- 👨🏼‍🎓 Graduado em administração
+- 📚 Pós graduando em Full Stack & Projetos de Cloud Computing
+- 🏗️ Desenvolvedor backend em formação pela Cubos.Academy
 - 🌱 Em transição de carreira
+
+
+
 
 <br>
 
