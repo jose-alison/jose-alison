@@ -29,6 +29,7 @@
   <a href="https://github.com/jose-alison/">   
   <img height="196em" src="https://github-readme-stats.vercel.app/api?username=jose-alison&show_icons=true&theme=holi"/>  
   <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-alison&theme=holi&langs_count=8"/>
+  <img height="196em" src="https://github-readme-streak-stats.herokuapp.com/?user=jose-alison&theme=tokyonight-duo&hide_border=true"/>
 </div>
 </div>
 <br>
