@@ -16,13 +16,15 @@
   <div padding="5px">
  
 # 👨🏽‍💻 Tecnologias que possuo algum conhecimento
+<div align="center">
+  
 [![My Skills](https://skillicons.dev/icons?i=python,django,selenium,html,css,bootstrap,js,nodejs,express,postman,docker,ai,mysql,vscode&theme=light)](https://skillicons.dev)
-
+</div>
 </div>
 <br>
 
 # 📊 Github Stats
-<div>
+<div align="center">
   <img height="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=jose-alison&bg_color=030314&color=589edd&line=f5c402&point=f5c402&area=true&hide_border=true)]"/>
   <a href="https://github.com/jose-alison/">   
   <img height="196em" src="https://github-readme-stats.vercel.app/api?username=jose-alison&show_icons=true&theme=holi"/>  
@@ -33,7 +35,7 @@
     
 # 🚩 Onde estou:
     
-<div> 
+<div align="center"> 
   <a href="https://www.linkedin.com/in/josealison/" target="_blank"><img height="35px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://instagram.com/zealisun"><img height="35px" src="https://img.shields.io/badge/instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white"/></a>
 </div>    
