@@ -18,7 +18,9 @@
 # 👨🏽‍💻 Tecnologias que possuo algum conhecimento
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=python,django,selenium,html,css,bootstrap,js,nodejs,express,postman,docker,ai,mysql,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,selenium,html,css,bootstrap,js,nodejs,express&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=postman,docker,ai,mysql,vscode&theme=light)](https://skillicons.dev)
 </div>
 </div>
 <br>
