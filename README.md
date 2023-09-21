@@ -15,12 +15,11 @@
 
   <div padding="5px">
  
-# 👨🏽‍💻 Tecnologias que possuo algum conhecimento
+# 👨🏽‍💻 Tecnologias que possuo conhecimento
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=python,django,selenium,html,css,bootstrap,js,nodejs,express&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,mysql,aws,postgres,python,django,selenium,postman,docker,html,css,bootstrap&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=postman,docker,ai,mysql,vscode&theme=light)](https://skillicons.dev)
 </div>
 </div>
 <br>
