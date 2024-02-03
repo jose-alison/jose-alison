@@ -1,29 +1,29 @@
-# Hi! 🖖
-- 🙎🏽‍♂️ Olá, eu sou Alison!
-- ❤️ Apaixonado por tecnologia e pessoas
-- 👨🏼‍🎓 Graduado em administração
-- 📚 Pós graduando em Full Stack & Projetos de Cloud Computing
-- 🏗️ Desenvolvedor backend em formação pela Cubos.Academy
-- 🌱 Em transição de carreira
-
-
-
-
+<h1 align="left"> Olá 🖖<br />Sejam bem vind@s!</h1>
+ <h3 align="left">🙎🏽‍♂️Sobre mim: </h3> 
+ <p align="left">
+   🌱 Em transição de carreira <br />
+   Um pernambucano apaixonado por bolo de rolo e café. <br />
+   Sou apaixonado por tecnologia e pessoas. Graduado em administração e pós graduando em Full Stack & Projetos de Cloud Computing. <br />
+   Formação em desenvolvedor backend pela Cubos.Academy
+ </p>
 <br>
-
-<div>
-
-  <div padding="5px">
- 
-# 👨🏽‍💻 Tecnologias que possuo conhecimento
-<div align="center">
-  
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,mysql,aws,postgres,python,django,selenium,postman,docker,html,css,bootstrap&theme=dark)](https://skillicons.dev)
-
-</div>
-</div>
+<h3 align="left">🚩 Onde me encontrar:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/josealison">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark&perline=5" />
+  </a>  
+</p>
 <br>
-
+<h3 align="left">⌨️ Tecnologias que mais uso:</h3>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,mysql,postgres,django,selenium,docker&theme=dark&perline=10" />
+</p>
+<br>
+<h3 align="left">⌨️ Tecnologias que tenho algum conhecimento:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,jenkins,react,angular,next,jest,vercel,vite,postman,aws,html,css,bootstrap,heroku,java,spring,figma&theme=dark&perline=10" />
+</p>
+<br>
 # 📊 Github Stats
 <div align="center">
   
@@ -34,10 +34,3 @@
 </div>
 </div>
 <br>
-    
-# 🚩 Onde estou:
-    
-<div> 
-  <a href="https://www.linkedin.com/in/josealison/" target="_blank"><img height="35px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://instagram.com/zealisun"><img height="35px" src="https://img.shields.io/badge/instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white"/></a>
-</div>    
