@@ -16,12 +16,12 @@
 <br>
 <h3 align="left">⌨️ Tecnologias que mais uso:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,mysql,postgres,django,selenium,docker&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,postgres,django,selenium,docker,js,nodejs,express&theme=dark&perline=10" />
 </p>
 <br>
-<h3 align="left">⌨️ Tecnologias que tenho algum conhecimento:</h3>
+<h3 align="left">⌨ Meus desbravaentos me fizeram conhecer:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,jenkins,react,angular,next,jest,vercel,vite,postman,aws,html,css,bootstrap,heroku,java,spring,figma&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,jenkins,react,angular,next,jest,vercel,vite,postman,aws,html,css,bootstrap&theme=dark&perline=10" />
 </p>
 <br>
 # 📊 Github Stats
